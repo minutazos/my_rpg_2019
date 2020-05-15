@@ -8,6 +8,6 @@ There are some additional mechanics in order to fulfill project requisites.
 
 ** Made with Nathan Casabielle and Thomas Samson **
 
-## Projections for this project
+## Future projections
 The idea is to remake it, with a more robust architecture and doing a pure clone of the original game, without any extra feature.
 
